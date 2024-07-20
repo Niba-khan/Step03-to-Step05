@@ -80,12 +80,12 @@ let object :{
      },
      {
          name : "Qualification",
-         type: "string",
+         type: "input",
          message: "Enter your Qualification"
      },
      {
          name : "Study",
-         type: "string",
+         type: "input",
          message: "Enter your continuing study"
      }
  ]);
